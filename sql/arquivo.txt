@@ -1,0 +1,9 @@
+1 - RG
+2 - CPF
+3 - Comprovante de Residencia
+4 - Histórico escolar
+5 - Diploma/Certificado de conclusão do Ensino Médio
+6 - Reservista
+7- foto 3x4
+8 - titulo de eleitor
+9 - certidao casamento ou nasc
